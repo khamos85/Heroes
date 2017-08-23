@@ -1,0 +1,88 @@
+@font-face {
+    font-family: HelveticaNeue;
+    src: url("/assets/fonts/HelveticaNeue.ttf");
+}
+
+@font-face {
+    font-family: HelveticaNeueCondensedBold;
+    src: url("/assets/fonts/HelveticaNeue-CondensedBold.ttf");
+}
+
+@font-face {
+    font-family: BebasNeue-Bold;
+    src: url("/assets/fonts/BebasNeue-Bold.otf");
+}
+
+@font-face {
+    font-family: Moon-Bold;
+    src: url("/assets/fonts/Moon-Bold.otf");
+}
+
+@font-face {
+    font-family: MyriadPro-BoldCond;
+    src: url("/assets/fonts/MyriadPro-BoldCond.otf");
+}
+
+@font-face {
+    font-family: CocoGothic-Bold;
+    src: url("/assets/fonts/CocoGothic-Bold.ttf");
+}
+
+p {
+	margin: 10px 0;
+}
+
+.in-block {
+	display: block;
+}
+
+.CocoGothic-Bold {
+    font-family: CocoGothic-Bold;
+    font-size: 29px;
+    color: rgba(53, 53, 53, 0.5);
+}
+
+.MyriadPro-BoldCond {
+	font-family: MyriadPro-BoldCond;
+    font-size: 48px;
+    color: rgba(53, 53, 53, 1);
+}
+
+.Moon-Bold {
+	font-family: Moon-Bold;
+	font-size: 40px;
+    color: rgba(53, 53, 53, 0.7);
+}
+
+.BebasNeue-Bold {
+	font-family: BebasNeue-Bold;
+	font-size: 40px;
+    color: rgba(53, 53, 53, 0.4);
+}
+
+.FuturaBold {
+    font-size: 40px;
+    color: rgba(53, 53, 53, 0.3);
+}
+
+.HelveticaNeueCondensedBold {
+	font-family: HelveticaNeueCondensedBold;
+	font-size: 40px;
+    color: rgba(53, 53, 53, 0.8);
+}
+
+.background {
+	background: url("/assets/images/background.jpg") repeat fixed center;
+}
+
+.foros-semana {
+    img {
+        width: 260px !important;
+    }
+}
+
+.treinta_y_cinco {
+    img {
+        width: 45px;
+    }
+}
